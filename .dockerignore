@@ -1,3 +1,4 @@
 **/**/node_modules
 .dockerignore
 Dockerfile
+!tools/yarn-cling/test/**/node_modules
